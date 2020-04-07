@@ -36,3 +36,5 @@ yarn-error.log
 package-lock.json
 
 .java-version
+temp_auto_push.bat
+temp_interactive_push.bat
